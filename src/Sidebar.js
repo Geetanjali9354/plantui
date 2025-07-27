@@ -30,25 +30,25 @@ function Sidebar(){
                     <button style={{backgroundColor:"black",marginLeft:"50px"}}>New this week</button>     
                     <div style={{cursor:"pointer"}}>
                         <div style={{marginLeft:"50px",marginTop:"35px",display:"flex"}}>
-                            <img src={CART}></img>
+                            <img src={CART} alt=''></img>
                             <p style={{marginLeft:"10px"}}>CART (0)</p>
                         </div>
                         <br/>
                         <div style={{marginLeft:"50px",display:"flex"}}>
-                            <img src={heart}></img>
+                            <img src={heart} alt=''></img>
                             <p style={{marginLeft:"10px"}}>FAVOURITE</p>
                         </div>
                         <br/>
                         <div style={{marginLeft:"50px",display:"flex"}}>
-                            <img src={search}></img>
+                            <img src={search} alt=''></img>
                             <p style={{marginLeft:"10px"}}>SEARCH</p>
                         </div>
                     </div>
                     <div className="icons">
-                        <img src={watsapp} ></img>
-                        <img src={instagram} style={{marginLeft:"20px"}}></img>
-                        <img src={facebook} style={{marginLeft:"20px"}}></img>
-                        <img src={messenger} style={{marginLeft:"20px"}}></img>
+                        <img src={watsapp} alt=''></img>
+                        <img src={instagram} style={{marginLeft:"20px"}} alt=''></img>
+                        <img src={facebook} style={{marginLeft:"20px"}} alt=''></img>
+                        <img src={messenger} style={{marginLeft:"20px"}} alt=''></img>
                     </div>     
          </div>            
      </div>     
