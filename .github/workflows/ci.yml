@@ -9,8 +9,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v4
+    - name: Checkout code  # download repository code into runner
+      uses: actions/checkout@v4  # official checkout action
 
     - name: Setup Node.js
       uses: actions/setup-node@v4
@@ -22,3 +22,9 @@ jobs:
 
     - name: Run Build
       run: npm run build
+
+    - name: Deploy to GitHub Pages (optional)
+      uses: peaceiris/actions-gh-pages@v4
+      with:
+      github_token: ${{ secrets.GITHUB_TOKEN }}
+      publish_dir: ./build
