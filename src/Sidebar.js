@@ -8,7 +8,7 @@ import messenger from './images/messenger.svg'
 import './App.css';
 function Sidebar(){
     return(
-
+            //fhsdjfsf
         <div className='sideBar'>
             <div style={{cursor:"pointer" }}>
                 <h1 style={{textAlign:"center"}}>Amado</h1>
