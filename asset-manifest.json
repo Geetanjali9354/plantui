@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/plantui/static/css/main.bb218bf0.css",
-    "main.js": "/plantui/static/js/main.d2fc2d74.js",
+    "main.js": "/plantui/static/js/main.f8b99edc.js",
     "static/js/488.7c368144.chunk.js": "/plantui/static/js/488.7c368144.chunk.js",
     "static/media/first.jpg": "/plantui/static/media/first.ff1c9421315c50b2ef4f.jpg",
     "static/media/eleven.jpg": "/plantui/static/media/eleven.3a14cbf453bb33149718.jpg",
@@ -9,20 +9,20 @@
     "static/media/tenth.jpg": "/plantui/static/media/tenth.fca90577e437b2e66a91.jpg",
     "static/media/nineth.jpg": "/plantui/static/media/nineth.b6650c80d544ae36ac01.jpg",
     "static/media/fifth.jpg": "/plantui/static/media/fifth.64b750ee7bb975df3786.jpg",
-    "static/media/instagram.svg": "/plantui/static/media/instagram.9683973671d1c5c5c8c22d3c43196a21.svg",
-    "static/media/whatsapp.svg": "/plantui/static/media/whatsapp.bcab769d89393ea8e837aa1ef3250447.svg",
+    "static/media/instagram.svg": "/plantui/static/media/instagram.448198b22019bf2f0b71355b8346c675.svg",
+    "static/media/whatsapp.svg": "/plantui/static/media/whatsapp.17112172df21e518376d04f5814c11d8.svg",
     "index.html": "/plantui/index.html",
-    "static/media/messenger.svg": "/plantui/static/media/messenger.b57d1cb8950b04c8cca15a1cbd50e3f7.svg",
-    "static/media/cart.svg": "/plantui/static/media/cart.82f037e25e360c5c7dfa37f9ccbb538d.svg",
-    "static/media/heart.svg": "/plantui/static/media/heart.a9c56bf0da45718399f391a40a69dacd.svg",
-    "static/media/facebook.svg": "/plantui/static/media/facebook.0a6d989971c05e6fcb11563bb598c162.svg",
-    "static/media/search.svg": "/plantui/static/media/search.d4eb7c2fa04d7c91c1170f7719bfb23a.svg",
+    "static/media/messenger.svg": "/plantui/static/media/messenger.effbc9389cd7a045cc4a19b83237f43b.svg",
+    "static/media/cart.svg": "/plantui/static/media/cart.0abf1cce3cd249bb43d9b94d4ae1f822.svg",
+    "static/media/heart.svg": "/plantui/static/media/heart.3c790abefa5fc456752c626c6f038be4.svg",
+    "static/media/facebook.svg": "/plantui/static/media/facebook.4172f094907a6837b8f36d120b55601b.svg",
+    "static/media/search.svg": "/plantui/static/media/search.582e6fdae2c59f4e7b41bc2c538877cd.svg",
     "main.bb218bf0.css.map": "/plantui/static/css/main.bb218bf0.css.map",
-    "main.d2fc2d74.js.map": "/plantui/static/js/main.d2fc2d74.js.map",
+    "main.f8b99edc.js.map": "/plantui/static/js/main.f8b99edc.js.map",
     "488.7c368144.chunk.js.map": "/plantui/static/js/488.7c368144.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bb218bf0.css",
-    "static/js/main.d2fc2d74.js"
+    "static/js/main.f8b99edc.js"
   ]
 }
