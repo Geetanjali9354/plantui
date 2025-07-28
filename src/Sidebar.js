@@ -15,7 +15,7 @@ function Sidebar(){
                 <h4 style={{textAlign:"center"}} >F U R N I T U R E</h4>           
                     <h5 style={{marginTop:"50px",marginLeft:"50px"}}>HOME</h5>
                     <br/>
-                    <h5 style={{marginLeft:"50px"}}>HELP</h5>
+                    <h5 style={{marginLeft:"50px"}}>HELP ME</h5>
                     <br/>
                     <h5 style={{marginLeft:"50px"}}>PRODUCT</h5>
                     <br/>
